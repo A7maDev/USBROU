@@ -15,4 +15,4 @@ Requirements
 Usage
 ---------
 
-#### <i class="icon-share"></i> Download from the following link  [USBROU v1.0](https://stackedit.io/)
+#### <i class="icon-share"></i> Download from the following link  [USBROU.exe](https://github.com/A7maDev/USBROU/raw/master/Distribution/USBROU.exe)
